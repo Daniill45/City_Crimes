@@ -1,0 +1,106 @@
+.button3 {
+    padding: 5px 5px;
+    font-size: 20px;
+    text-align:center;
+    outline:none;
+    color:#fff;
+    background-color: #1abd1f;
+    color: rgb(255, 255, 255);
+    border: none;
+    border-radius: 15px;
+    box-shadow: 0 9px #999;
+    cursor: pointer;
+  }
+
+  button:hover{background-color: #3e8e41;}
+
+  button:active{
+    background-color: #3e8e41;
+    box-shadow: 0 5px #666;
+    transform:tarnslateY(4px);
+  
+  }
+
+  input[type="text"] {
+    padding: 5px;
+    width: 200px;
+  }
+
+.button1{
+  display: inline-block;
+  padding: 10px 20px;
+  background-color: rgb(127, 122, 144);
+  color: black;
+  text-decoration: none;
+  border: 1px solid black;
+  border-radius: 5px;
+  position: absolute;
+  top:25px;
+  left:300px;
+  
+}
+  button:active{
+  background-color: #3e8e41;
+  box-shadow: 0 5px #666;
+  transform:tarnslateY(4px);
+}
+  button:hover{background-color: #13d246;
+}
+
+.button2{
+  display: inline-block;
+  padding: 10px 20px;
+  background-color: rgb(127, 122, 144);
+  color: black;
+  text-decoration: none;
+  border: 1px solid black;
+  border-radius: 5px;
+  position: absolute;
+  top:25px;
+  left:500px;
+  
+}
+  button:active{
+  background-color: #3e8e41;
+  box-shadow: 0 5px #666;
+  transform:tarnslateY(4px);
+}
+  button:hover{background-color: #13d246;
+}
+
+.forma
+  {
+  position: absolute;
+  top:75px;
+  left:300px;
+  }
+
+.formtext{
+  color:#fff
+  }
+  
+.back{
+  color:#fff
+}
+
+/* Общие стили для окошек */
+.data-box {
+  padding: 10px;
+  background-color: #f0f0f0;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+  margin-bottom: 20px;
+}
+
+/* Стили для заголовка окошка */
+.data-box h2 {
+  font-size: 18px;
+  color: #007bff;
+}
+
+/* Стили для данных внутри окошка */
+.data-box p {
+  font-size: 14px;
+  color: #333;
+}

@@ -1,0 +1,17 @@
+
+{
+    "name": "CitySafe",
+    "short_name": "CitySafe",
+    "theme_color": "#4400ff",
+    "background_color": "#292179",
+    "display": "fullscreen",
+    "orientation": "landscape",
+    "scope": "Placeholder",
+    "start_url": ".",
+    "icons":[{
+        "src":"/icons/title.png",
+        "sizes":"800x800",
+        "type":"image/png"
+
+    }]
+  }
